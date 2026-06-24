@@ -1,0 +1,9 @@
+Store assets needed before publishing:
+- App icon (512x512 PNG)
+- Feature graphic (1024x500 PNG)
+- Phone screenshots (at least 2)
+- Short description
+- Full description
+- Privacy policy URL
+- Content rating questionnaire
+- Release notes

@@ -1,0 +1,10 @@
+1. Install Python, pip, and Android SDK/NDK.
+2. Install Buildozer:
+   pip install buildozer
+3. Run this once to initialize:
+   buildozer init
+4. Build for testing:
+   buildozer -v android debug
+5. Build for release:
+   buildozer -v android release
+6. Generate a signed AAB for Google Play.
